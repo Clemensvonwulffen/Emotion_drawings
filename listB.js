@@ -1,5 +1,3 @@
-const BASE_URL = 'https://raw.githubusercontent.com/Clemensvonwulffen/Emotion_drawings/main/';
-
 const listB = [
   {
     "stimulus": "https://raw.githubusercontent.com/Clemensvonwulffen/Emotion_drawings/main/participant_88052_order_1_emotion_afraid.png",
